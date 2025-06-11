@@ -13,7 +13,25 @@
 3.Third
 
 ### Unordered List
--First
-+Second
+- First
++ Second
 - Third
-- 
+- fourth
+
+> Black Quote
+
+`Single line of code`
+```
+** Multiple lines of code **
+#include<stdio.h>
+int main(){
+int a,b;
+printf("enter values");
+scanf("%d,%d",&a,&b);
+}
+```
+#### Horizontal Line
+----
+
+###### Insert any URL
+[Rowdy](google.com)
