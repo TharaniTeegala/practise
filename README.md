@@ -41,7 +41,17 @@ scanf("%d,%d",&a,&b);
 
 
 ### To use CheckList
--[X] AWS
--[X] LINUX
--[X] UBUNTU
--[] Windows
+- [X] AWS
+- [X] LINUX
+- [X] UBUNTU
+- [ ] Windows
+
+### Greatful[^1]
+
+[^1]:Thankful
+
+### To Insert the table
+
+|Name|College|District|
+|----|---|----|
+|Tharani|ANITS|VSP|
