@@ -34,4 +34,7 @@ scanf("%d,%d",&a,&b);
 ----
 
 ###### Insert any URL
-[Rowdy](rowdy2)
+[Rowdy](rowdy2.txt)
+
+#### Insert any image
+![My Image](https://e0.pxfuel.com/wallpapers/280/848/desktop-wallpaper-pspk.jpg)
