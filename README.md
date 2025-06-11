@@ -7,6 +7,8 @@
 
 ***bold-italic***
 
+~~Strikethrough~~
+
 ### Ordered List
 1.First
 2.Second
