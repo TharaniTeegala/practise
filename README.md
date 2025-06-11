@@ -38,3 +38,10 @@ scanf("%d,%d",&a,&b);
 
 #### Insert any image
 ![My Image](https://e0.pxfuel.com/wallpapers/280/848/desktop-wallpaper-pspk.jpg)
+
+
+### To use CheckList
+-[X] AWS
+-[X] LINUX
+-[X] UBUNTU
+-[] Windows
